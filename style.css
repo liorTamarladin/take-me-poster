@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+div{
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 70px;
+}
+#dog{
+    border: 5px solid white;
+    border-radius: 10px;
+    text-align: center;
+    width: 30%;
+}
+p{
+    color: deeppink;
+}
+h1{
+    text-transform: uppercase;
+}
